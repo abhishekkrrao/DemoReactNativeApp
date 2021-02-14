@@ -20,7 +20,7 @@ export default class Loading extends Component {
             this.props.navigation.dispatch({
                 ...CommonActions.reset({
                   index: 0,
-                  routes: [{ name: "ReduxTest" }]
+                  routes: [{ name: "Home" }]
                 })
               });
         },2000);

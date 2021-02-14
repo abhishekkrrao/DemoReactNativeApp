@@ -6,5 +6,6 @@ export default {
     jpBlueDark: 'rgb(60, 94, 120)',
     jpOrange: '#f07229',
     iosButtonBlue: '#007aff',
-    selectedButtonColor:"#f57c00"
+    selectedButtonColor:"#f57c00",
+    headerBGColor:"#f57c00"
 }
